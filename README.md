@@ -1,6 +1,13 @@
 # calendar
 
   Simple calendar date-picker. The component does not come with a template or styles, you create it yourself. Alternatively you can use anthonyshort/calendar-skeleton as a template.
+  
+## Dependencies
+
+  * component/moment
+  * component/jquery
+  * component/emitter
+  * component/bind
 
 ## Installation
 
