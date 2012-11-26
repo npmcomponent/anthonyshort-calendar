@@ -1,0 +1,19 @@
+{
+  "name": "calendar",
+  "repo": "anthonyshort/calendar",
+  "description": "Calendar date-picker",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/moment": "*",
+    "component/jquery": "*",
+    "component/bind": "*",
+    "component/emitter": "*"
+  },
+  "development": {
+  },
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}

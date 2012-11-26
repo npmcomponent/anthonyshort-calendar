@@ -1,0 +1,11 @@
+{
+  "name": "calendar",
+  "private": true,
+  "version": "0.1.0",
+  "devDependencies": {
+    "component": "*",
+    "grunt": "~0.3.15",
+    "grunt-mocha": "*",
+    "grunt-component-build": "*"
+  }
+}
