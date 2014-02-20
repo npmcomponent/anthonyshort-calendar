@@ -1,7 +1,7 @@
-var moment = require('moment');
-var $ = require('jquery');
-var bind = require('bind');
-var Emitter = require('emitter');
+var moment = require('component-moment');
+var $ = require('component-jquery');
+var bind = require('component-bind');
+var Emitter = require('component-emitter');
 
 function Calendar(options) {
   Emitter.call(this);

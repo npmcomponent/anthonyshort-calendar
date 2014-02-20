@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [anthonyshort/calendar](http://github.com/anthonyshort/calendar). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/anthonyshort-calendar`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # calendar
 
   Simple calendar date-picker. The component does not come with a template or styles, you create it yourself. Alternatively you can use anthonyshort/calendar-skeleton as a template.

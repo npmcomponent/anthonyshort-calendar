@@ -1,11 +1,13 @@
 {
-  "name": "calendar",
-  "private": true,
-  "version": "0.1.0",
-  "devDependencies": {
-    "component": "*",
-    "grunt": "~0.3.15",
-    "grunt-mocha": "*",
-    "grunt-component-build": "*"
-  }
+  "name": "anthonyshort-calendar",
+  "description": "Calendar date-picker",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component-moment": "git://github.com/npmcomponent/component-moment.git",
+    "component-jquery": "git://github.com/npmcomponent/component-jquery.git",
+    "component-bind": "git://github.com/npmcomponent/component-bind.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git"
+  },
+  "license": "MIT"
 }
